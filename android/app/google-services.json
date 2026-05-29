@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184571220664",
+    "project_id": "the-wall-d8c7f",
+    "storage_bucket": "the-wall-d8c7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184571220664:android:780d4a93b3b5a90fe11a4d",
+        "android_client_info": {
+          "package_name": "com.example.the_wal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXVgG-iohbLNMWR_PoR1dUI1uioqTSgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184571220664:android:b87d208d1996043be11a4d",
+        "android_client_info": {
+          "package_name": "com.example.the_wall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXVgG-iohbLNMWR_PoR1dUI1uioqTSgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
